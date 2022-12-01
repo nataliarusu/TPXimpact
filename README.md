@@ -2,7 +2,7 @@
 
 ## Project 1
 
-This repository contains part one of TPXimpact technical challenge. The Poster "farbige Graphik in Grenchen" reproduced using just HTML and CSS. 
+This repository contains part one of the TPXimpact technical challenge. The Posters "farbige Graphik in Grenchen" and "Opernhaus Zürich" were reproduced using just HTML and CSS.
 
 Below are links to other repositories containing Project 2 and Project 3.
 
